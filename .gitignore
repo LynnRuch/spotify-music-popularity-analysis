@@ -1,0 +1,19 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.DS_Store
+Thumbs.db
+
+# Local/intermediate project files
+final_df_cleaned.csv
+PROJECT_TEXT.md
+
+# Local/intermediate project files
+final_df_cleaned.csv
+PROJECT_TEXT.md
+GITHUB_SETUP.md
